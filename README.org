@@ -1,0 +1,5 @@
+* The "wox.py" from "github.com/Wox-launcher/LanguageBinding"
+** Step1 setting your wox python path
+** Step2 you need "wox.py" in your python library or plugin directory
+** Step3 edit "config.py" change Path to your "ConEmuC" directory
+** Step4 you need open ConEmu or Cmder and,try input something on Wox

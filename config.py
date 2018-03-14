@@ -1,0 +1,2 @@
+Path = ""# <Your ConEmuC Path>
+

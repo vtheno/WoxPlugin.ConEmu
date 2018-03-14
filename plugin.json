@@ -1,0 +1,12 @@
+{
+    "ID":"6C35FECAF5F849B9AE12FC193B93E387",
+    "ActionKeyword":">>",
+    "Name":"WoxPlugin.ConEmu",
+    "Description":"Nothing",
+    "Author":"Vtheno",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"nil",
+    "ExecuteFileName":"main.py",
+    "IcoPath":"Images\\app.png",
+}
