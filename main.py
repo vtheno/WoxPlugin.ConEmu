@@ -5,10 +5,10 @@ import os
 import config
 class Main(Wox):
     def query(self,key):
-        if key.startswith(">> "):
-            consequence = key[3:] #P.Parse(key)
-        elif key.startswith(">>"):
+        if key.startswith(">>"):
             consequence = key[2:]
+        if consequence.startswith(" "):
+            consequence = consequence[1:] #P.Parse(key)
         results = []
         item = {
             "Title":"MyWox",
